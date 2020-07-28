@@ -3,4 +3,12 @@
 playground
 ----------
 
+<!-- badges: start -->
+
+[![R build
+status](https://github.com/ratkaisija/playground/workflows/R-CMD-check/badge.svg)](https://github.com/ratkaisija/playground/actions)
+[![Build
+Status](https://travis-ci.com/ratkaisija/playground.svg?branch=master)](https://travis-ci.org/ratkaisija/playground)
+<!-- badges: end -->
+
 This repository is for testing
